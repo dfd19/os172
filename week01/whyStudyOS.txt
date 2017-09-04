@@ -1,1 +1,2 @@
 #dfd19
+Belajar Operating System akan membantu mahasiswa dalam mengenal sistem dasar yang dijalankan pada komputer. Dengan memahami lebih jauh mengenai OS, kita dapat lebih memahami tentang dasar-dasar bagaimana komputer bekerja.
