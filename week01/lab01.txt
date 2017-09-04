@@ -20,3 +20,4 @@ drwxr-xr-x  2 dennis.febri StafCS 4096 Sep  4 15:51 week09
 drwxr-xr-x  2 dennis.febri StafCS 4096 Sep  4 15:51 week10
 drwxr-xr-x  2 dennis.febri StafCS 4096 Sep  4 15:51 xtra
 /home/fasilkom/mahasiswa/d/dennis.febri/os172/week01
+Today is 04 Sep 2017 at 16:39:23
