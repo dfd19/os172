@@ -1,0 +1,18 @@
+Pada lab01, kami mempelajari bagaimana menggunakan Command Line Bash dengan putty, dan kami mereview kembali penggunaan Git dalam lab ini.
+
+Command line yang telah kami pelajari pada hari ini diantaranya adalah :
+1. cd
+   Untuk berpindah direktori
+2. rm 
+   Untuk menghapus file
+3. mkdir
+   Untuk membuat directory
+4. touch
+   Untuk membuat file kosong
+5. nano
+   menggunakan teks editor nano
+6. vim
+   menggunakan teks editor vim
+
+dan sebagainya.
+

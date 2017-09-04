@@ -1,1 +1,15 @@
 #dennis_febri_dien
+
+Pada Lab00, Yang kami pelajari adalah penggunaan git serta mengakses server fasilkom menggunakan putty
+
+berikut adalah bbrp perintah git diantaranya adalah :
+1. git init 
+   Untuk membuat local repository
+2. git add
+   Untuk melakukan Staging (melakukan perubahan sementara), dan dapat dikembalikan sewaktu-waktu. atau dapat dicommit secara langsung
+3. git commit 
+   Untuk melakukan finalisasi commit pada local repository
+4. git push
+   Untuk memasukan file yang sudah di commit menuju remote repository
+
+  
