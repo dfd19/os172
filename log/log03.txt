@@ -1,0 +1,4 @@
+w02-170919-16-LR-Learn about Booting
+w02-170919-17-PS-QUIZ
+w02-170921-20-PS-Do a lab session, booting and init
+w02-170921-21-PS-Do a lab session, encryption

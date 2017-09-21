@@ -1,6 +1,0 @@
-/home/fasilkom/mahasiswa/d/dennis.febri/.gnupg/pubring.gpg
-----------------------------------------------------------
-pub   4096R/53E91CB7 2017-09-16 [expires: 2018-03-15]
-uid                  Dennis Febri Dien (Gua yang paling jago, pass wifi rumah) <dennis.febri@ui.ac.id>
-sub   4096R/7709D27E 2017-09-16 [expires: 2018-03-15]
-
