@@ -1,0 +1,4 @@
+w03-170926-16-LR-Learn about file descriptor
+w03-170930-6-PS-Do a lab session, learn about pointer
+w03-170930-7-PS-do a lab session, learn about file descriptor
+w03-170930-8-PS-Do a lab session, learn about some syntax C and open/close call
