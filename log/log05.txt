@@ -1,0 +1,3 @@
+w04-171002-19-PS-Do a lab, Make a work directory and read problem set
+w04-171003-16-LR-Learn about swap, virtual and physical memory
+w04-171005-16-LR-Learn about Paging, TLB, and Two Level Paging
