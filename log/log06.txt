@@ -1,0 +1,3 @@
+w05-171031-16-LR-Learn about fork
+w05-171102-16-LR-Learn about Threading, and exercise problem of fork
+w05-171104-02-PS-Do a lab, about fork
