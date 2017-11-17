@@ -1,0 +1,3 @@
+w07-171114-16-LR-Learn about Scheduling
+w07-171116-16-LR-Exercise about Scheduling
+w07-171118-02-PS-Do a lab, Complete the Scheduling program roundRobin

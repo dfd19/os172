@@ -1,0 +1,4 @@
+w07-171107-16-LR-Learn about Synchronization
+w07-171109-16-LR-Learn about Multithreading and another example of Synchronization
+w07-171110-21-PS-Do a lab, Make description for program 03 and 05
+w07-171111-12-PS-Do a lab,  complete program 50-readwrite.c(still incomplete though)
