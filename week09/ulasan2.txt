@@ -1,0 +1,6 @@
+URL GIT: https://github.com/dfd19/
+URL Ulasan: https://titatatiti.blogspot.com/2017/12/ulasan-2-week-03.html
+URL Video : https://youtu.be/ZtVpz5VWjAs (5:40)
+Materi : Week03 (BIOS,Loader,SystemMd,IO)
+Tanggal Submisi Revisi Pertama : n/a
+Tanggal Submisi Revisi Kedua : n/a
